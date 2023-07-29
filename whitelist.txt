@@ -1,4 +1,4 @@
 local WhitelistedIDS = {
-[1493336436] = true,
+[3073605823] = true,
 }
 return WhitelistedIDS
