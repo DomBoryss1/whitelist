@@ -1,0 +1,4 @@
+local WhitelistedIDS = {
+[3655561690] = true,
+}
+return WhitelistedIDS
